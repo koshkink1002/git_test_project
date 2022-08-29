@@ -8,3 +8,5 @@ greet_user(name)
 
 age = int(input("Сколько тебе лет? "))
 print(f"Через пять лет тебе будет {age + 5}")
+
+print(f"Тебя зовут {name}, тебе {age} лет")
